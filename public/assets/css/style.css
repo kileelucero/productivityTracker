@@ -1,0 +1,27 @@
+#backgroundImage {
+  height: 100%;
+  width: 100%;
+  background-image: url(../prodTrackBG.jpg);
+  background-position: cover;
+  background-repeat: no-repeat;
+  background-size: cover;
+  backdrop-filter: blur(8px);
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+    background-color: bisque;
+}
+
+a {
+    color: black!important;
+}
+
+button {
+    background-color: antiquewhite!important;
+    color: black!important;
+}
+
+
+
